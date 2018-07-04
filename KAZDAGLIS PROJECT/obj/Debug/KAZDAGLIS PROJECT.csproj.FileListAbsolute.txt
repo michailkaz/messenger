@@ -1,0 +1,7 @@
+C:\Users\Eco\source\repos\KAZDAGLIS PROJECT\KAZDAGLIS PROJECT\obj\Debug\KAZDAGLIS PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Eco\source\repos\KAZDAGLIS PROJECT\KAZDAGLIS PROJECT\obj\Debug\KAZDAGLIS PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Eco\source\repos\KAZDAGLIS PROJECT\KAZDAGLIS PROJECT\bin\Debug\KAZDAGLIS PROJECT.exe.config
+C:\Users\Eco\source\repos\KAZDAGLIS PROJECT\KAZDAGLIS PROJECT\bin\Debug\KAZDAGLIS PROJECT.exe
+C:\Users\Eco\source\repos\KAZDAGLIS PROJECT\KAZDAGLIS PROJECT\bin\Debug\KAZDAGLIS PROJECT.pdb
+C:\Users\Eco\source\repos\KAZDAGLIS PROJECT\KAZDAGLIS PROJECT\obj\Debug\KAZDAGLIS PROJECT.exe
+C:\Users\Eco\source\repos\KAZDAGLIS PROJECT\KAZDAGLIS PROJECT\obj\Debug\KAZDAGLIS PROJECT.pdb
